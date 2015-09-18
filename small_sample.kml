@@ -22,10 +22,15 @@ RG7 4PW</name>
 					</Data>
 					<Data name='Telephone Number'>
 						<value>0239 212 3556</value>
+					<Data name = 'coordinates'>
+						<value>51.555824,-0.142355,0</value>
+					</Data>
+					
 					</Data>
 					<Data name='Training Centre Website'>
 						<value>www.2start-training.com</value>
-					</Data>
+					</Data> 
+					
 					<Data name='Contact Name'>
 						<value>Daisy</value>
 					</Data>
